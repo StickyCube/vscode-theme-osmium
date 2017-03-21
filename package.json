@@ -23,5 +23,8 @@
                 "path": "./themes/osmium_light.tmTheme"
             }
         ]
-    }
+    },
+    "repository": "git@github.com:StickyCube/vscode-theme-osmium.git",
+    "author": "StickyCube <will.jk01@gmail.com>",
+    "license": "MIT"
 }
