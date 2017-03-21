@@ -1,0 +1,27 @@
+{
+    "name": "vscode-theme-osmium",
+    "displayName": "Osmium material ui",
+    "description": "Yet another neutral material theme",
+    "version": "0.0.1",
+    "publisher": "stickycube",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Osmium Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/osmium_dark.tmTheme"
+            },
+            {
+                "label": "Osmium Light",
+                "uiTheme": "vs",
+                "path": "./themes/osmium_light.tmTheme"
+            }
+        ]
+    }
+}
